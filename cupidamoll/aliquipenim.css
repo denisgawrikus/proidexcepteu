@@ -1,0 +1,4 @@
+/* Applying the invert filter to an image */
+img {
+    filter: invert(100%);
+}
